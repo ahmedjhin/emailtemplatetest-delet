@@ -1,0 +1,47 @@
+ 
+                        <a style="text-decoration: none;" href="https://example.com"><img width="130px" src="Screenshot_2.png" alt=""style="overflow:hidden;"></a>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size: 17px;color: #06104b;">On November 21, 2022 around 2 PM Central Time, we misconfigured one of our services. We detected the problem approximately 12 hours later but the service had been compromised.
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size: 18px;color: #06104b;font-weight: bold ;">The Good News</p>
+                        <p style="font-size: 17px;color: #06104b;">The compromised service is a testing environment and did not have direct access to private user data. We don’t think this was a targeted attack but rather the work of automated scanners looking for open services. To that end we suspect that, even though the service was compromised, nothing serious actually happened.
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size: 18px;color: #06104b;font-weight: bold ;">The Bad News</p>
+                        <p style="font-size: 17px;color: #06104b;">It is possible that our SSL certificate private key was compromised. We haven’t seen evidence of this but it is a possibility.  This means the attackers could decrypt communications between end users and Font Awesome.
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size: 18px;color: #06104b;font-weight: bold ;">How We Fixed it</p>
+                        <p style="font-size: 17px;color: #06104b;">We corrected the misconfiguration and revoked and reissued the potentially compromised certificate.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size:18px;color:#06104b;font-weight:bold;">Recommendation</p>
+                        <p style="font-size: 17px;color: #06104b;">We recommend that <span style="font-size:18px;color:#06104b;font-weight:bold;"> anyone using <a style="color: blue;font-weight:bold" href="https://fontawesome.com/">fontawesome.com</a> on November 21st or 22nd change their password.</span> Additionally, you should review your account settings to validate nothing has changed unexpectedly.
+
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size:18px;color:#06104b;font-weight:bold;">What We're Doing Going Forward</p>
+                        <p style="font-size: 17px;color: #06104b;">This was human error. As much as we’d like to be perfect individually or collectively, errors like this do occur. We’re planning to review what happened and make changes to prevent it from happening again. Mostly we want everyone to know that we are sorry, we take security seriously, and we’ll work hard to prevent issues like this in the future.</p>
+                        <p style="font-size: 17px;color: #06104b;line-height: 24px;">If you have any other questions or concerns, please reach out to <a style="color: blue;" href="" email="security@fontawesome.com"> security@fontawesome.com</a>.
+                        </p>
+                    </td>
+                </tr>
